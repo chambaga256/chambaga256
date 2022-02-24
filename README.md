@@ -10,7 +10,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
     
 
 <td >
-  <a href="https://app.daily.dev/bkroland19"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="350" alt="bukenya kizza roland's Dev Card"/></a>
+  <a href="https://app.daily.dev/chambaga256"><img src="https://api.daily.dev/devcards/645c63bf2d474d06a26da191393dabf0.png?r=t2s" width="400" alt="chambaga Abdul's Dev Card"/></a>
   </td>
 
 </tr>
@@ -23,9 +23,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
  ##
 
  <div>
-  <a href="https://github.com/Bkroland19">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Bkroland19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/chambaga256">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=chambaga256&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chambaga256&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
